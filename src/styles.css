@@ -77,7 +77,7 @@ button {
     cursor: pointer;
 }
 
-.tiempo-restante {
+.timeLeft {
     font-size: 14px;
     color: #fcbf3d;
     margin-bottom: 20px;
