@@ -21,9 +21,9 @@ const questions = [
         question: "¿ Año en que se desarrollo la app ?",
         options: [
             { textAnswer: "2010", isCorrect: false},
-            { textAnswer: "2014", isCorrect: true},
+            { textAnswer: "2014", isCorrect: false},
             { textAnswer: "2018", isCorrect: false},
-            { textAnswer: "2022", isCorrect: false},
+            { textAnswer: "2022", isCorrect: true},
         ],
     },
     {
