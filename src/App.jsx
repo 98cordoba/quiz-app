@@ -57,7 +57,7 @@ function App() {
       <main className="app">
         <div className="left-side">
           <div className="number-question">
-            <span> Pregunta {currentQuestion + 1} de {questions.length}</span> 
+            <span> Pregunta {currentQuestion + 1} de {questions.length}</span>
           </div>
           <div className="title-question">
             {questions[currentQuestion].question}
@@ -85,7 +85,7 @@ function App() {
   return <main className="app">
     <div className="left-side">
       <div className="number-question">
-        <span> Pregunta {currentQuestion + 1} de {questions.length}</span> 
+        <span> Pregunta {currentQuestion + 1} de {questions.length}</span>
       </div>
       <div className="title-question">
         {questions[currentQuestion].question}
